@@ -1,0 +1,89 @@
+[
+    {
+        "name":"New Mongol Entertainment System",
+        "proPicUrl":"https://scontent.fuln6-2.fna.fbcdn.net/v/t39.30808-6/317380888_1278998192958072_3697408099657711069_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=U39YZzEXeO4AX__7Iyg&_nc_ht=scontent.fuln6-2.fna&oh=00_AfDUXBs4rOBF1HqLHrKi56zllfN0QQN_gmpZSv51k9vlFQ&oe=63EBD07D",
+        "photoUrl":"https://scontent.fuln6-2.fna.fbcdn.net/v/t39.30808-6/317071848_106027909014511_1136183163785265912_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=VZIO7NhvAfUAX9SSLD2&_nc_ht=scontent.fuln6-2.fna&oh=00_AfBfc8WSJeUrgGMplQq7rlICs6dKTBXWm30Z0E2ldApkUA&oe=63EAF1D6",
+        "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis. Ut commodo efficitur neque. Ut diam quam, semper iaculis condimentum ac, vestibulum eu nisl.",
+        "links": {
+            "phone": "88771177",
+            "fb": "nmes",
+            "fbname": "nmes",
+            "insta": "nmes",
+            "email": "nmes@nmit.edu.mn"
+        },
+        "week": {
+            "monday": {
+                "time": "амарна",
+                "room": ""
+            },
+            "tuesday": {
+                "time": "амарна",
+                "room": ""
+            },
+            "wednesday": {
+                "time": "амарна",
+                "room": ""
+            },
+            "thursday": {
+                "time": "амарна",
+                "room": ""
+            },
+            "friday": {
+                "time": "амарна",
+                "room": ""
+            },
+            "saturday": {
+                "time": "20:00-21:30",
+                "room": "913 тоот өрөө"
+            },
+            "sunday": {
+                "time": "20:00-21:30",
+                "room": "913 тоот өрөө"
+            }
+        }
+    },
+
+    {
+        "name":"tennis club",
+        "proPicUrl":"https://cdn.thredbo.com.au/wp-content/uploads/2017/03/07150540/Untitled-design-5-1500x900.jpg",
+        "photoUrl":"https://photoresources.wtatennis.com/photo-resources/2019/08/15/dbb59626-9254-4426-915e-57397b6d6635/tennis-origins-e1444901660593.jpg?width=1200&height=630",
+        "text" : "it's not Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis. Ut commodo efficitur neque. Ut diam quam, semper iaculis condimentum ac, vestibulum eu nisl.",
+        "links": {
+            "phone": "88771177",
+            "fb": "nmes",
+            "fbname": "nmes",
+            "insta": "nmes",
+            "email": "nmes@nmit.edu.mn"
+        },
+        "week": {
+            "monday": {
+                "time": "амарна",
+                "room": ""
+            },
+            "tuesday": {
+                "time": "амарна",
+                "room": ""
+            },
+            "wednesday": {
+                "time": "амарна",
+                "room": ""
+            },
+            "thursday": {
+                "time": "амарна",
+                "room": ""
+            },
+            "friday": {
+                "time": "амарна",
+                "room": ""
+            },
+            "saturday": {
+                "time": "20:00-21:30",
+                "room": "913 тоот өрөө"
+            },
+            "sunday": {
+                "time": "20:00-21:30",
+                "room": "913 тоот өрөө"
+            }
+        }
+    }
+]
